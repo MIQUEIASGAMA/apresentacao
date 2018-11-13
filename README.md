@@ -12,11 +12,11 @@ manipulação de arquivos magnéticos.
 
 
 Com a alta no mercado de criptomoedas,
-estarei junto a Lemacoins consultoria fazendo
+estarei junto a GCCRYPTO consultoria fazendo
 trader em moedas virtuais, organizando
 treinamentos remotos e prestando serviços de
 consultoria e planejamentos em investimentos no
-mercado Forex
+mercado Forex e transações internacionais
 
 
 CURSOS EXTRACURRICULARES
