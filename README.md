@@ -8,15 +8,8 @@ em contas a pagar: controle de prazos e vencimentos, emissão de cheques, contas
 receber: controle de prazos e vencimentos, acompanhamento diário de recebimentos, 
 cobranças, boletos de cobrança e duplicatas, recibos para clientes, contatos com 
 clientes, emissão de notas fiscais, controle de estoque, e produção, pedidos de compras, 
-manipulação de arquivos magnéticos.
+verificação de SPEDs fiscal e contribuição.
 
-
-Com a alta no mercado de criptomoedas,
-estarei junto a GCCRYPTO consultoria fazendo
-trader em moedas virtuais, organizando
-treinamentos remotos e prestando serviços de
-consultoria e planejamentos em investimentos no
-mercado Forex e transações internacionais
 
 
 CURSOS EXTRACURRICULARES
@@ -26,7 +19,13 @@ Introdução de Integração entre Java, HTML, CSS &
 JS;
 SQL completo;
 Curso de trader no mercado Forex de criptomoedas;
-Curso de redes e segurança - em desenvolvimento.
+Curso de redes e segurança - em processo.
 
+Perfil
+http://www.gccryptos.com/
 
 Projeto FITCASH
+Desenvolvedor do token Ethereum ERC20 Ethereum FITCASH FTH 
+https://etherscan.io/token/0xb414f8ec2d14c64f37b1559cbe43746284514596
+Marketcap do token FTH
+https://coinpaprika.com/coin/fth-fitcash/
