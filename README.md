@@ -21,11 +21,11 @@ SQL completo;
 Curso de trader no mercado Forex de criptomoedas;
 Curso de redes e segurança - em processo.
 
-Perfil
-http://www.gccryptos.com/
+
 
 Projeto FITCASH
 Desenvolvedor do token Ethereum ERC20 Ethereum FITCASH FTH 
 https://etherscan.io/token/0xb414f8ec2d14c64f37b1559cbe43746284514596
 Marketcap do token FTH
 https://coinpaprika.com/coin/fth-fitcash/
+https://www.coingecko.com/pt/moedas/fitcash
